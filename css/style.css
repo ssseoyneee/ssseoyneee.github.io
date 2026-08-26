@@ -303,9 +303,12 @@ a:hover {
 }
 
 .paper-links {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
   font-size: 16px;
 }
-
 
 /* =========================
    SELECTION
